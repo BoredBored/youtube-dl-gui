@@ -102,7 +102,7 @@ class MainFrame(wx.Frame):
     WELCOME_MSG = _("Welcome")
     WARNING_LABEL = _("Warning")
 
-    ADD_LABEL = _("Add")
+    ADD_LABEL = _("Download")
     DOWNLOAD_LIST_LABEL = _("Download list")
     DELETE_LABEL = _("Delete")
     PLAY_LABEL = _("Play")
